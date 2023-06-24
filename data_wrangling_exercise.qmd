@@ -1,0 +1,17 @@
+---
+title: "Exercise: Explore, Clean, and Wrangle Data"
+author: "CGG"
+format: html
+editor: visual
+---
+
+## About the data
+XXXX
+
+## Setup
+
+## Read and explore data
+
+## Q1
+
+## Q2
