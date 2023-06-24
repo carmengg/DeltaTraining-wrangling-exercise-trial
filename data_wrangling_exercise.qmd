@@ -10,8 +10,20 @@ XXXX
 
 ## Setup
 
+```{r}
+library(readr)
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+```
+
 ## Read and explore data
+```{r}
+abundance <- read_csv("https://portal.edirepository.org/nis/dataviewer?packageid=knb-lter-sbc.77.8&entityid=f32823fba432f58f66c06b589b7efac6")
+```
+
 
 ## Q1
 
 ## Q2
+
